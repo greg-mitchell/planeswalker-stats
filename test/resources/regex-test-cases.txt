@@ -1,0 +1,27 @@
+
+;; Test cases for regex
+2013-02-03WPN Premium Tournament StarCityGames.com Legacy Open - 2013-02-03Gwinnett Center69-
+2014-12-07WPNPT- StarCityGames.com Portland Legacy Open SE:16Oregon Convention Center1-
+2015-05-02WPNPT - 5/2POR-StarCityGames.comStandardOregon Convention Center36-
+2014-12-12WPNPT - 12/12 - SEA - StarCityGames.com InvitationalStar City Comics and Games117-
+
+2015-05-29GP Las Vegas 2015 Friday Legacy #1Las Vegas Convention Center54-
+2011-05-29Magic - 2011-05-29Phoenix Games (R)7-
+2013-08-23Friday Night Magic - August 2013Rarity Games (R)10-
+2015-05-30Grand Prix Las Vegas 2015 B (Origins)Las Vegas Convention Center168-
+2015-01-03Magic - 2015/01/03Washington State Convention & Trade Center22-
+2011-05-01US National Qualifier – WPN – 1 InvitationSuper Games45-
+2013-02-09Pro Tour Qualifier Dragon's Maze 2013Super Games35-
+2016-10-292016 North America Legacy ChampionshipGreater Columbus Convention Center112-
+
+2013-09-07 Magic Celebration 2013 Participation---
+2016-10-30Eternal Weekend NA 2016 Sunday 11am Vintage ChallengeGreater Columbus Convention Center9-
+2010-07-16Launch Party - M11 - N AmericaTBS Comics - Fort Walton Beach5-
+2013-05-16 Level 2 Judge---
+2013-06-29Magic Casual Event - 2013/06/29Raven's Nest, The1-
+2010-07-23N America - Friday Night Magic - July 2010TBS Comics - Fort Walton Beach42-
+2011-07-30QT Philadelphia 2011Holiday Inn Select - Atlanta Capitol20-
+2012-02-11Grand Prix Trial 2 - Indianapolis 2012Gaming Pit, The12-
+2011-07-06Magic - 2011-07-06Super Games5-
+2015-11-07Grand Prix Seattle/Tacoma 2015Greater Tacoma Convention Center208-
+
